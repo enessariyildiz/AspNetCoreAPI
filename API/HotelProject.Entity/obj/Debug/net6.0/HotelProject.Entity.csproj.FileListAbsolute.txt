@@ -1,0 +1,11 @@
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.Entity\bin\Debug\net6.0\HotelProject.Entity.deps.json
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.Entity\bin\Debug\net6.0\HotelProject.Entity.dll
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.Entity\bin\Debug\net6.0\HotelProject.Entity.pdb
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.AssemblyInfoInputs.cache
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.AssemblyInfo.cs
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.csproj.CoreCompileInputs.cache
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.dll
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.Entity\obj\Debug\net6.0\refint\HotelProject.Entity.dll
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.Entity\obj\Debug\net6.0\HotelProject.Entity.pdb
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.Entity\obj\Debug\net6.0\ref\HotelProject.Entity.dll
