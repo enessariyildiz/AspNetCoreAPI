@@ -1,0 +1,15 @@
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.DTO\bin\Debug\net6.0\HotelProject.DTO.deps.json
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.DTO\bin\Debug\net6.0\HotelProject.DTO.dll
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.DTO\bin\Debug\net6.0\HotelProject.DTO.pdb
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.DTO\obj\Debug\net6.0\HotelProject.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.DTO\obj\Debug\net6.0\HotelProject.DTO.AssemblyInfoInputs.cache
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.DTO\obj\Debug\net6.0\HotelProject.DTO.AssemblyInfo.cs
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.DTO\obj\Debug\net6.0\HotelProject.DTO.csproj.CoreCompileInputs.cache
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.DTO\obj\Debug\net6.0\HotelProject.DTO.sourcelink.json
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.DTO\obj\Debug\net6.0\HotelProject.DTO.dll
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.DTO\obj\Debug\net6.0\refint\HotelProject.DTO.dll
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.DTO\obj\Debug\net6.0\HotelProject.DTO.pdb
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.DTO\obj\Debug\net6.0\ref\HotelProject.DTO.dll
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.DTO\bin\Debug\net6.0\HotelProject.DTO.runtimeconfig.json
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.DTO\obj\Debug\net6.0\HotelProject.DTO.csproj.AssemblyReference.cache
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.DTO\obj\Debug\net6.0\HotelProject.DTO.genruntimeconfig.cache

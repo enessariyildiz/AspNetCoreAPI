@@ -1,0 +1,15 @@
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.Business\bin\Debug\net6.0\HotelProject.Business.deps.json
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.Business\bin\Debug\net6.0\HotelProject.Business.dll
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.Business\bin\Debug\net6.0\HotelProject.Business.pdb
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.Business\obj\Debug\net6.0\HotelProject.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.Business\obj\Debug\net6.0\HotelProject.Business.AssemblyInfoInputs.cache
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.Business\obj\Debug\net6.0\HotelProject.Business.AssemblyInfo.cs
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.Business\obj\Debug\net6.0\HotelProject.Business.csproj.CoreCompileInputs.cache
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.Business\obj\Debug\net6.0\HotelProject.Business.sourcelink.json
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.Business\obj\Debug\net6.0\HotelProject.Business.dll
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.Business\obj\Debug\net6.0\refint\HotelProject.Business.dll
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.Business\obj\Debug\net6.0\HotelProject.Business.pdb
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.Business\obj\Debug\net6.0\ref\HotelProject.Business.dll
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.Business\bin\Debug\net6.0\HotelProject.Business.runtimeconfig.json
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.Business\obj\Debug\net6.0\HotelProject.Business.csproj.AssemblyReference.cache
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.Business\obj\Debug\net6.0\HotelProject.Business.genruntimeconfig.cache

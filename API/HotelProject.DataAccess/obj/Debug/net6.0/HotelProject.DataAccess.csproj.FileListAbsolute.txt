@@ -9,3 +9,7 @@ D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.DataAccess\obj\Debug\ne
 D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.DataAccess\obj\Debug\net6.0\refint\HotelProject.DataAccess.dll
 D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.DataAccess\obj\Debug\net6.0\HotelProject.DataAccess.pdb
 D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.DataAccess\obj\Debug\net6.0\ref\HotelProject.DataAccess.dll
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.DataAccess\obj\Debug\net6.0\HotelProject.DataAccess.sourcelink.json
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.DataAccess\bin\Debug\net6.0\HotelProject.DataAccess.runtimeconfig.json
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.DataAccess\obj\Debug\net6.0\HotelProject.DataAccess.csproj.AssemblyReference.cache
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.DataAccess\obj\Debug\net6.0\HotelProject.DataAccess.genruntimeconfig.cache
