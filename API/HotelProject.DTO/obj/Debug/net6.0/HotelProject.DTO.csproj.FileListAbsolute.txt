@@ -13,3 +13,6 @@ D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.DTO\obj\Debug\net6.0\re
 D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.DTO\bin\Debug\net6.0\HotelProject.DTO.runtimeconfig.json
 D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.DTO\obj\Debug\net6.0\HotelProject.DTO.csproj.AssemblyReference.cache
 D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.DTO\obj\Debug\net6.0\HotelProject.DTO.genruntimeconfig.cache
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.DTO\bin\Debug\net6.0\HotelProject.Entity.dll
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.DTO\bin\Debug\net6.0\HotelProject.Entity.pdb
+D:\Dev\Software\Projects\AspNetCore.API\API\HotelProject.DTO\obj\Debug\net6.0\HotelProject.DTO.csproj.CopyComplete

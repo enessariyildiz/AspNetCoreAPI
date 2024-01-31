@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "om10dydwL41lFkRIRvhhhOH+eVNeaQu5egb0Pqg/FfkjoNsYwOjWMmjMKmSPL/Ugmy5ydzcF6QUqiFWYP3NUfA==",
+  "dgSpecHash": "dYAamTBWUTfG842ll92VqON0DzDNueXsiC5Wc9CclUj6vlJ+iW4kW3zgLN7Cn0ne9833dER7HhZAIuUmd65iuA==",
   "success": true,
   "projectFilePath": "D:\\Dev\\Software\\Projects\\AspNetCore.API\\API\\HotelProject.DTO\\HotelProject.DTO.csproj",
   "expectedPackageFiles": [

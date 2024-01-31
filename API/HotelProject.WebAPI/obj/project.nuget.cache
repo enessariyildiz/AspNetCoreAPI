@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ppL788OnAugf1xZPYK6kRidSnQFCoSlvsPnDSZ9Nf5xAatdDgp/dnLrgkF4W3raP7LihWu2RE9qIAVaXTxSowA==",
+  "dgSpecHash": "8SpUkgXzPJinAUj7scir+Afi1NHTgAn0wk22aXLEoCoSCNxLBMVSpt2eqUtWHjMW1q99W0eAImsTmrrYeujATA==",
   "success": true,
   "projectFilePath": "D:\\Dev\\Software\\Projects\\AspNetCore.API\\API\\HotelProject.WebAPI\\HotelProject.WebAPI.csproj",
   "expectedPackageFiles": [

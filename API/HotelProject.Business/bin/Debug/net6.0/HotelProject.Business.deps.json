@@ -8,9 +8,12 @@
     ".NETCoreApp,Version=v6.0": {
       "HotelProject.Business/1.0.0": {
         "dependencies": {
+          "HotelProject.DataAccess": "1.0.0",
+          "HotelProject.Entity": "1.0.0",
           "Microsoft.EntityFrameworkCore": "6.0.26",
           "Microsoft.EntityFrameworkCore.Design": "6.0.26",
-          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.26"
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.26",
+          "Microsoft.EntityFrameworkCore.Tools": "6.0.26"
         },
         "runtime": {
           "HotelProject.Business.dll": {}
@@ -143,6 +146,11 @@
             "assemblyVersion": "6.0.26.0",
             "fileVersion": "6.0.2623.57013"
           }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Tools/6.0.26": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Design": "6.0.26"
         }
       },
       "Microsoft.Extensions.Caching.Abstractions/6.0.0": {
@@ -483,6 +491,25 @@
             "fileVersion": "4.700.19.56404"
           }
         }
+      },
+      "HotelProject.DataAccess/1.0.0": {
+        "dependencies": {
+          "HotelProject.Entity": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.26",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.26"
+        },
+        "runtime": {
+          "HotelProject.DataAccess.dll": {}
+        }
+      },
+      "HotelProject.Entity/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.26",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.26"
+        },
+        "runtime": {
+          "HotelProject.Entity.dll": {}
+        }
       }
     }
   },
@@ -561,6 +588,13 @@
       "sha512": "sha512-e8B4Bc6+0pZzoyNZSQCyi6ZX3IkcsDRGS9CpKlUUAKqwBIVDTBaURnwjI7hYwA/y+2Rmnfk4ZiA1/z8OS2xf3Q==",
       "path": "microsoft.entityframeworkcore.sqlserver/6.0.26",
       "hashPath": "microsoft.entityframeworkcore.sqlserver.6.0.26.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.Tools/6.0.26": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QsdYf5pYszTFKxyfgL8+PsXx2vhTXpl3kPRcunnkJ7TQ8u6WH1OFSFHXCvvZgmH65it6jKv/pY9Jgl+r+vRYnw==",
+      "path": "microsoft.entityframeworkcore.tools/6.0.26",
+      "hashPath": "microsoft.entityframeworkcore.tools.6.0.26.nupkg.sha512"
     },
     "Microsoft.Extensions.Caching.Abstractions/6.0.0": {
       "type": "package",
@@ -785,6 +819,16 @@
       "sha512": "sha512-CeWTdRNfRaSh0pm2gDTJFwVaXfTq6Xwv/sA887iwPTneW7oMtMlpvDIO+U60+3GWTB7Aom6oQwv5VZVUhQRdPQ==",
       "path": "system.windows.extensions/4.7.0",
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
+    },
+    "HotelProject.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HotelProject.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

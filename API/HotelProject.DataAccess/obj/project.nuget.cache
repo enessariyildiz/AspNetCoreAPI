@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1PBXaxHnKODjcNhXQ1Vc+RAOKugP+CKKEPqM6H8SZzOR9qAMT8gOHU/l+gIQf76pd+t6sgm6nbxxMQaPA5J3QQ==",
+  "dgSpecHash": "5/vS5+UPXfn5SztQR6Hm5XNas5TkZG6J+pt6y8TfL3yCYfTU0OSF+/GxPnl0cWY27AxWfQLphpYTubMZHn3Lng==",
   "success": true,
   "projectFilePath": "D:\\Dev\\Software\\Projects\\AspNetCore.API\\API\\HotelProject.DataAccess\\HotelProject.DataAccess.csproj",
   "expectedPackageFiles": [

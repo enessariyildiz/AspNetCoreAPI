@@ -782,6 +782,20 @@
             "rid": "win"
           }
         }
+      },
+      "HotelProject.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.26",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.26"
+        },
+        "compile": {
+          "bin/placeholder/HotelProject.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HotelProject.Entity.dll": {}
+        }
       }
     }
   },
@@ -2003,10 +2017,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "HotelProject.Entity/1.0.0": {
+      "type": "project",
+      "path": "../HotelProject.Entity/HotelProject.Entity.csproj",
+      "msbuildProject": "../HotelProject.Entity/HotelProject.Entity.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "HotelProject.Entity >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.26",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.26",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.26",
@@ -2039,7 +2059,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Dev\\Software\\Projects\\AspNetCore.API\\API\\HotelProject.Entity\\HotelProject.Entity.csproj": {
+              "projectPath": "D:\\Dev\\Software\\Projects\\AspNetCore.API\\API\\HotelProject.Entity\\HotelProject.Entity.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
