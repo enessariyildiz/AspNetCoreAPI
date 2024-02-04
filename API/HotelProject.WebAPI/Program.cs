@@ -13,10 +13,28 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+//Db Context Services
 builder.Services.AddDbContext<Context>();
+
+//Staff Services
 builder.Services.AddScoped<IStaffDal, EFStaffDal>();
 builder.Services.AddScoped<IStaffService, StaffManager>();
-//builder.Services.AddScoped<IRoomDal, EFRoomDal>();
+
+//Service Services
+builder.Services.AddScoped<IServicesDal, EFServiceDal>();
+builder.Services.AddScoped<IServiceService, ServiceManager>();
+
+//Room Services
+builder.Services.AddScoped<IRoomDal, EFRoomDal>();
+builder.Services.AddScoped<IRoomService, RoomManager>();
+
+//Subscribe Services
+builder.Services.AddScoped<ISubscribeDal, EFSubscribeDal>();
+builder.Services.AddScoped<ISubscribeService, SubscribeManager>();
+
+//Testimonial Services
+builder.Services.AddScoped<ITestimonialDal, EFTestimonialDal>();
+builder.Services.AddScoped<ITestimonialService, TestimonialManager>();
 
 var app = builder.Build();
 

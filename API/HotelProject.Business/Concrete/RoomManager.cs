@@ -4,7 +4,7 @@ using HotelProject.Entity.Concrete;
 
 namespace HotelProject.Business.Concrete
 {
-    internal class RoomManager : IRoomService
+    public class RoomManager : IRoomService
     {
         private readonly IRoomDal _roomDal;
 

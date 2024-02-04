@@ -9,7 +9,6 @@ namespace HotelProject.WebAPI.Controllers
     public class StaffController : ControllerBase
     {
         private readonly IStaffService _staffService;
-
         public StaffController(IStaffService staffService)
         {
             _staffService = staffService;
@@ -50,7 +49,5 @@ namespace HotelProject.WebAPI.Controllers
             var values = _staffService.TGetById(id);
             return Ok(values);
         }
-
-        
     }
 }
